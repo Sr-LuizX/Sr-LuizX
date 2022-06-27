@@ -21,8 +21,9 @@
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
- src="https://cdn.discordapp.com/attachments/806690011780743200/991019868755214396/new-game-ahagon-umiko-programming.gif?width=676&height=676">
+  <img align="right" alt="Luiz-pic" height="160" style="border-radius:60px;" 
+  src="https://cdn.discordapp.com/attachments/806690011780743200/991019868755214396/new-game-ahagon-umiko-programming.gif?width=676&height=676"
+   
 </div>
   
   ##
